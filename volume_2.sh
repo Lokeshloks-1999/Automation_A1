@@ -5,5 +5,7 @@ W=4
 L=6
 # Calucating volume Formula
 VOLUME=$((HEIGHT * WIDTH * LENGTH))
+echo $VOLUME
+
 
 
